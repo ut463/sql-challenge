@@ -1,12 +1,13 @@
 const inquirer = require("inquirer");
 const { Pool } = require('pg');
+require("dotenv").config();
 
 const pool = new Pool(
     {
         user: 'postgres',
-        password: 'Pie',
+        password: 'rootroot',
         host: 'localhost',
-        database: 'who makes the money'
+        database: 'employee_tracker_db'
     },
     console.log(`Connected to the database.`)
 )

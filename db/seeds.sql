@@ -10,7 +10,7 @@ VALUES
 
 INSERT INTO roles (title, salary, department_id)
 VALUES
-('Head of HR', 90000.00, 6),
+('Head of LEGO', 90000.00, 6),
 ('Recruiter', 40000.00, 3),
 ('Sales Representative', 50000.00, 4),
 ('Engineer', 100000.00, 5),
@@ -24,6 +24,6 @@ VALUES
 ('Shaketa', 'goodbye', 3),
 ('Phillip', 'mac', 2),
 ('Eman', 'late', 4),
-('Matt', 'Lego', 5),
-('Zeke', 'daggers', 6),
+('Matt', 'Lego', 6),
+('Zeke', 'daggers', 5),
 ('Caleb', 'teach', 7);
