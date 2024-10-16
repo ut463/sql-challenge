@@ -1,6 +1,6 @@
 const inquirer = require("inquirer");
 const { Pool } = require('pg');
-require("dotenv").config();
+
 
 const pool = new Pool(
     {
@@ -12,7 +12,7 @@ const pool = new Pool(
     console.log(`Connected to the database.`)
 )
 
-pool.connect()
+pool.connect();
 
 function start() {
     inquirer.prompt([
