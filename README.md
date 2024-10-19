@@ -1,5 +1,5 @@
 # sql-challenge
-i am still working on video
+(https://drive.google.com/file/d/195zt6XnGoScp3eFjl7YU8r74mADXZrE3/view)
 AS A business owner
 I WANT to be able to view and manage the departments, roles, and employees in my company
 SO THAT I can organize and plan my business

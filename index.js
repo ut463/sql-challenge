@@ -165,3 +165,4 @@ function addRole() {
 
 
 }
+start();
